@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,东森新闻
-http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 ,台视财经
-https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
+#EXTINF:-1 ,錦心似玉 EP4
+https://m3u.if101.tv/xm3u8/d79ad5696cd9fcddc1ced8304db84fb90786952630dc63502719ee31d4c761439921f11e97d0da21.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视”,錦心似玉 EP5
